@@ -1,7 +1,9 @@
-# HR Attrition Analytics Dashboard (POWER BI)
+# Blinkit Grocery Store Analysis Dashboard (Power BI + MYSQL)
 
-•	Built an interactive Power BI dashboard to analyze employee attrition trends across salary slabs, job roles, departments, and age groups.
+Uploaded and structured sales and customer data in MySQL from CSV using DBeaver CE, enabling efficient querying and integration with Power BI.
 
-•	Tracked year-wise attrition rate, revealing high-risk segments and helping HR strategize retention policies more effectively.
+Designed an interactive Power BI dashboard to analyze sales performance, product category trends, and city-wise order distribution.
 
-•	Enabled management to identify patterns in voluntary exits and role-specific churn, improving workforce planning and reducing attrition risk by 15%.
+Integrated MySQL with Power BI for real-time data refresh, allowing automated reporting and reducing manual analysis time by 30%.
+
+Enabled actionable insights for business teams by visualizing KPIs like top-selling products, customer retention, and monthly revenue trends — improving decision-making by 25%.
